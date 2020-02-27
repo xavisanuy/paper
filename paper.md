@@ -2,7 +2,7 @@
 
 #Title
 
-Aircraft measurement Ageing of biomass burning aerosols over West Africa
+Aircraft measurement and simulation of biomass burning aerosols over West Africa
 
 # Autor
 
