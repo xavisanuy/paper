@@ -5,9 +5,8 @@
 Aircraft measurement and simulation of biomass burning aerosols over West Africa
 
 # Autor
-
+Jonh snow
 Xavier Sanuy
-JONH SNOW
 #Introduction
 
 
