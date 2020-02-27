@@ -6,4 +6,6 @@ Ageing of biomass burning aerosols over West Africa
 
 Xavier Sanuy
 
+#Introduction
 
+We present aircraft measurements
